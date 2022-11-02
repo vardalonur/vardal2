@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="c7c2bc">
+    
+    <!--başlık-->
+    <h1>ONUR VARDAL</h1>
+    <br>
+    <i><h2>Hakkımda</h2></i>
+    <p>Merhaba, ben Onur Vardal. 92 yılı, Ankara doğumluyum. Konya'da yaşıyorum. <br>Şu anda <a href="https://www.patika.dev">patika.dev</a> HTML kursundaki 2. ödevimi inceliyorsunuz.<br></p> <p>Desteğiniz için teşekkür ederim.</p>
+    <p><a href="mailto:vardalonur@gmail.com"><i>Bana buradan ulaşabilirsiniz.</i></a></p>
+    <br>
+    <i><h2>İlgi Alanlarım</h2></i>
+    <ul>
+        <li><h3>Filmler</h3> 
+            <ul><a href="https://tr.wikipedia.org/wiki/Zindan_Adas%C4%B1">Shutter Island</a></ul>
+            <ul><a href="https://tr.wikipedia.org/wiki/Matrix_(film)">The Matrix</a></ul>
+            <ul><a href="https://tr.wikipedia.org/wiki/Makinist_(film)">The Machinist</a></ul>
+        </li>
+        <li><h3>Diziler</h3> 
+            <ul><a href="https://tr.wikipedia.org/wiki/The_Sopranos">The Sopranos</a></ul>
+            <ul><a href="https://tr.wikipedia.org/wiki/Californication_(dizi)">Californication</a></ul>
+            <ul><a href="https://tr.wikipedia.org/wiki/Game_of_Thrones">Game of Thrones</a></ul>
+        </li>        
+        <li><h3>Kitaplar</h3> 
+            <ul><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment?ac=1&from_search=true&qid=W6XnHgFZxr&rank=1">Suç ve Ceza - <i>Dostoyevski</i></a></ul>
+            <ul><a href="https://www.goodreads.com/book/show/6882.Papillon?from_search=true&from_srp=true&qid=eLTSh8Rsw0&rank=1">Kelebek - <i>Henri Charrière</i></ul>
+            <ul><a href="https://www.goodreads.com/book/show/70912.The_Dice_Man?from_search=true&from_srp=true&qid=K0PwP0XwIW&rank=1">Zar Adam - <i>Luke Rhinehart</i></a></ul> 
+        </li>
+    </ul>
+
+<img src="https://static.wixstatic.com/media/b19cd0_18e6a094332f45228ec14c2bef0d8749.jpg/v1/fit/w_345%2Ch_400%2Cal_c%2Cq_80/file.jpg" alt="The Machinist">
+
+    
+<p><i>Christian Bale'ın ses getiren filmlerinden. <br>
+Makinist, 2004 yılında yayınlanmış olan; İspanya, İngiltere, Fransa ve Amerika Birleşik Devletleri ortak yapımı filmdir. Özgün adı El Maquinista'dır.</i></p>
